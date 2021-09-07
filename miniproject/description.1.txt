@@ -1,0 +1,30 @@
+      *****   To Run Our projact we need to install some dependancies ****
+Dependancies to be installed are 
+        - MySQLdb (pip install mysql-client)
+
+    >>>>our project imports MySQLdb package >>>>>>
+** To run our project client requires to create "products" database and in that database he must create "productinfo" table 
+
+
+
+Detils about Our Project :-
+
+	**In our project we have given 3 choices to user :-
+                         1]Add products
+			 2]Show product
+			 3]Generate invoise bill 
+                        
+           1) If user selects 1st option then our program will ask input for view items.
+           2)If user selects 2nd option then our program will ask Add items for Sale.
+           3) If user selects 3rd option then program will Ask Which items you have to Perchase.
+           4)If user selects 4th option then program will ask Serch items you have to Serch Items.
+           5)If user selects 5th option then program will ask Edit items you have to Edit Which you have been Added.
+
+       
+     industrial Training 
+  ---Python Project---
+  Group Members :
+1) Nandni Gajul:- Installention & Raw Data
+2) Shruti Balla:-Database
+3) Vaibhavi Dyavarkonda:- Program Code & Presentation
+4) Suhas Raichurkar:-Commands

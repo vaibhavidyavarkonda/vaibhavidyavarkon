@@ -88,7 +88,7 @@ def paste():
 
 window = tk.Tk()
 
-window.title("Suhas Text Editor")
+window.title("vaibhavi Text Editor")
 
 window.rowconfigure(0, minsize=800, weight=1)
 
